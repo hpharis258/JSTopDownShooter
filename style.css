@@ -1,0 +1,9 @@
+#scoreBoard{
+    transform: translateX(60em);
+    z-index: -1;
+}
+
+canvas{
+    position: fixed;
+}
+
